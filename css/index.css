@@ -25,5 +25,5 @@ h1 {
 }
   
 .blue {
-    background-color: rgb(0, 0, 0);
+    background-color: hsl(240, 100%, 50%);
 }
