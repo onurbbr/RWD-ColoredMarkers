@@ -16,6 +16,11 @@ h1 {
     margin: 10px auto;
 }
 
+.sleeve {
+    width: 110px;
+    height: 25px;
+}
+
 .red {
     background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
 }
