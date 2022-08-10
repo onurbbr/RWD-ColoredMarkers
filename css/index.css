@@ -27,6 +27,7 @@ h1 {
     background-color: rgba(255, 255, 255, 0.5);
     border-left-width: 10px;
     border-left-style: solid;
+    border-left-color: black;
 }
 
 .cap, .sleeve {
